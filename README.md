@@ -9,7 +9,7 @@
  
 With this module you will be able to offer a vast variety of most frequently used national and international online payment methods and payment solutions for worldwide internet commerce in you Wordpress WP e-Commerce webshop.
  
-*ICEPAY WP-eCommerce Payment Module* v. 2.0.1 works with the [WP-eCommerce plugin](http://wordpress.org/extend/plugins/wp-e-commerce/), but is in no way affiliated with it.
+*ICEPAY WP-eCommerce Payment Module* v. 2.0.2 works with the [WP-eCommerce plugin](http://wordpress.org/extend/plugins/wp-e-commerce/), but is in no way affiliated with it.
 
 
 This plugin only works with a valid and approved ICEPAY account. Please visit the [ICEPAY website](http://www.icepay.com/) for more information.
@@ -27,8 +27,8 @@ With the *ICEPAY WP-eCommerce Payment Module* you have a vast array of options:
 
 ### Compatibility
  
-*ICEPAY WP-eCommerce Payment Module* v. 2.0.1 is compatible with
-* WordPress v. 4.9.4
+*ICEPAY WP-eCommerce Payment Module* v. 2.0.2 is compatible with
+* WordPress v. 4.9.5
 * WP eCommerce v. 3.13.1
  
 Compatibility with other versions of WP eCommerce has not been tested.
@@ -61,6 +61,7 @@ Before upgrading, please make a backup of your existing files and database, just
 
 Version      | Release date   | Changes
 ------------ | -------------- | ------------------------
+2.0.2       |13/05/2018 | BugFix: payment method logos now shown
 2.0.1       |24/03/2015 | Solved problem with module activation
 2.0.0        | 24/03/2015    | Added webservice integration (Paymentmethods can now be retrieved directly from your ICEPAY account). Added Afterpay Support. Added configuration layout
 1.0.4        | 06/11/2013     | Fixed MisterCash issuer issue 
